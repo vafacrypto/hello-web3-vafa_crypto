@@ -1,2 +1,7 @@
-# hello-web3-vafa_crypto
-A simple Solidity smart contract for learning Web3 basics. قرارداد هوشمند ساده به زبان Solidity برای یادگیری مفاهیم پایه Web3. credit : crypto_vafa 🚀📈
+# Hello Web3
+A simple Solidity smart contract example.
+
+## Contract
+Deploy on any EVM-compatible chain.
+
+credit: vafa_crypto
